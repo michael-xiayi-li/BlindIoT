@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/OpenCV-3.4.1"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/Documents/amazonjava/aws-java-sdk-1.11.289/aws-java-sdk-1.11.289/lib/aws-java-sdk-1.11.289.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/Documents/amazonjava/jlayer1.0.1/JLayer1.0.1/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/Documents/amazonjava/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/Documents/amazonjava/jackson-databind-2.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/Documents/amazonjava/jackson-core-2.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/Documents/amazonjava/jackson-annotations-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/Documents/amazonjava/httpcomponents-client-4.5.5-bin/httpcomponents-client-4.5.5/lib/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/Documents/amazonjava/httpcomponents-client-4.5.5-bin/httpcomponents-client-4.5.5/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/Documents/amazonjava/httpcomponents-client-4.5.5-bin/httpcomponents-client-4.5.5/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/Documents/amazonjava/httpcomponents-client-4.5.5-bin/httpcomponents-client-4.5.5/lib/fluent-hc-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/Documents/amazonjava/httpcomponents-client-4.5.5-bin/httpcomponents-client-4.5.5/lib/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/Documents/amazonjava/httpcomponents-client-4.5.5-bin/httpcomponents-client-4.5.5/lib/httpclient-cache-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/Documents/amazonjava/httpcomponents-client-4.5.5-bin/httpcomponents-client-4.5.5/lib/httpclient-win-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/Documents/amazonjava/httpcomponents-client-4.5.5-bin/httpcomponents-client-4.5.5/lib/httpmime-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/Documents/amazonjava/httpcomponents-client-4.5.5-bin/httpcomponents-client-4.5.5/lib/jna-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/Documents/amazonjava/httpcomponents-client-4.5.5-bin/httpcomponents-client-4.5.5/lib/jna-platform-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/Documents/amazonjava/joda-time-2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
